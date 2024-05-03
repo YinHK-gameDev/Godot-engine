@@ -45,6 +45,12 @@ https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and
 在Discord搜尋"Godot"就能找到官方Discord伺服器。你可以在這裡用英文詢問問題、參考他人的問題或開發經歷、找遊戲相關的工作或雇用想找工作的工程師、藝術家等等。
 
 
+- Zenva's free Godot course
+
+https://academy.zenva.com/product/godot-101-game-engine-foundations/?utm_source=youtube&utm_medium=partner&utm_campaign=partner-youtube-brackeys-2024&utm_content=partner-youtube-brackeys-202401
+
+
+
 
 
 
